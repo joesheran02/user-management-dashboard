@@ -159,4 +159,4 @@ REACT_APP_API_BASE_URL=https://your-backend-url.com
 
 ## 🔗 Related Repository
 
-- 🔧 **Backend:** [user-management-api](https://github.com/YOUR_USERNAME/user-management-api)
+- 🔧 **Backend:** [user-management-api](https://github.com/joesheran02/user-management-api/tree/master)
